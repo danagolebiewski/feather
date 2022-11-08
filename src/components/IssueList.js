@@ -1,5 +1,5 @@
 import React from 'react';
-import IssueItem from '../components/IssueItem';
+import IssueItem from './IssueItem';
 
 // Here we accept an array of issues as a prop
 const IssueList = ({ issues }) => {
